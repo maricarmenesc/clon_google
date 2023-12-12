@@ -3,12 +3,10 @@ body {
     margin: 0px;
 }
 
-/*  id="lupa"        cuando sea para un solo elemento                    */
 #lupa {
     color: gray;
 }
 
-/*  class="icono"    cuando sea para uno o más elementos                           */
 .icono {
     width: 30px;
     height: 30px;
